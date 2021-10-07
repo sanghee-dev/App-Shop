@@ -10,7 +10,7 @@ https://github.com/della-padula/YappUltraHardPractice/tree/main/Sanghee/Practice
 
 ## 화면
 
-### 메인 화면
+### 메인 화면, 상세 화면
 - 메인 화면은 스크롤이 가능하며 피드를 클릭시 상세 화면으로 이동합니다.
 - 상세 화면에서는 클릭한 피드의 세부 내용을 확인할 수 있습니다.
 
