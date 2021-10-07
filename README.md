@@ -5,6 +5,12 @@ App Store 클론 프로젝트입니다.
 - Swift
 - MVP Pattern
 
+## 라이브러리
+- SnapKit
+
+## 기술 블로그
+https://velog.io/@leeesangheee/App-Shop-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
+
 ## 기존 깃허브
 https://github.com/della-padula/YappUltraHardPractice/tree/main/Sanghee/Practice3
 
